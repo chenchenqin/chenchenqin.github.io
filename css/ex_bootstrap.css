@@ -1,0 +1,32 @@
+.header{
+    padding-bottom:20px;
+    margin-bottom:32px;
+    border-bottom:1px solid #EEE;
+}
+
+
+div.header>div.container{
+    background-color:#D3ECF5;
+    height:200px;
+}
+
+.main{
+    background-color:#EDD3F5;
+}
+
+.sidebar{
+    background-color:#DBF5D3;
+}
+
+.footer{
+    background-color:#E3ECF5;
+    height:200px;
+}
+
+div{
+    background-color:#BBF5C8;
+}
+
+#wang{
+    color:#ff0000;
+}
